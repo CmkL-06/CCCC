@@ -1,0 +1,552 @@
+﻿
+TICARI KLASOR DETAYLI AGAC YAPISI
+Tarih: 2026-02-07 20:55
+============================================================
+
+UST DUZEY OZET:
+----------------------------------------
+00-DASHBOARD | 37,8 KB | 10 dosya
+01-SIRKETLER | 44,4 GB | 25272 dosya
+FINAL_OPTIMIZASYON_202602Pe_020745 | 8,5 MB | 31 dosya
+
+DETAYLI AGAC:
+============================================================
+├── 📁 00-DASHBOARD/
+│   ├── 1BASLANGIC_KILAVUZU (1).md (6,0 KB)
+│   ├── ALEYNA_GUZELLIK_MERKEZI.md (2,5 KB)
+│   ├── BASKENT_MUCEVHER.md (2,5 KB)
+│   ├── BASLANGIC_KILAVUZU.md (6,0 KB)
+│   ├── BAŞKENT ENERJİ.md (1,3 KB)
+│   ├── BAŞKENT TARIM.md (1,4 KB)
+│   ├── MICROSOFT_ENTEGRASYON_KILAVUZU.md (8,1 KB)
+│   ├── TICARI_KONTROL_PANELI.md (4,9 KB)
+│   ├── Turkce_Arayuz_Kurulum.md (1,1 KB)
+│   └── Turkce_Kurulum_Tamamlandi.md (3,8 KB)
+├── 📁 01-SIRKETLER/
+│   ├── 📁 ALEYNA-GUZELLIK-MERKEZI/
+│   │   ├── 📁 EVRAKLAR/
+│   │   ├── 📁 FATURALAR/
+│   │   └── 📁 MUHASEBE/
+│   ├── 📁 BASKENT-GROUP/
+│   │   ├── 📁 BASKENT-MUCEVHER/
+│   │   │   └── BAŞKENT MÜCEVHER.md (1,5 KB)
+│   │   ├── 📁 ENERJI/
+│   │   │   └── BAŞKENT ENERJİ.md (1,3 KB)
+│   │   ├── 📁 MUCEVHER/
+│   │   │   └── BAŞKENT MÜCEVHER.md (1,5 KB)
+│   │   ├── 📁 TARIM/
+│   │   │   └── BAŞKENT TARIM.md (1,4 KB)
+│   │   └── baskent enerji alanya basırllı tyapu.pdf (37,4 KB)
+│   ├── 📁 KUL-YATIRIM-GROUP/
+│   │   ├── 📁 BELGELER-YEDEK/
+│   │   │   ├── _KUL EMLAK YATIRIM A.Ş. kişisinden belge.pdf (59,6 MB)
+│   │   │   ├── 1000141771 (950×578).webp (75,8 KB)
+│   │   │   ├── 365d77489de3498f0ea7b174f7068cce.png (361,7 KB)
+│   │   │   ├── BVUC3667.JPEG (8,8 KB)
+│   │   │   ├── Developer-Enterprise-Services-Privacy-Policy_kopyası.pdf (185,4 KB)
+│   │   │   ├── GPYW3881.JPEG (12,5 KB)
+│   │   │   ├── Kitap.xlsx (7,0 KB)
+│   │   │   ├── OneDrive'-¦ kullanmaya ba+lama.pdf (1,0 MB)
+│   │   │   ├── Screenshot_20250817_195336_Telegram.jpg (315,2 KB)
+│   │   │   └── XSJJ1515.JPEG (12,5 KB)
+│   │   ├── 📁 DEKONTLAR/
+│   │   ├── 📁 EVRAKLAR/
+│   │   ├── 📁 FATURALAR/
+│   │   ├── 📁 KUL EMLAK YATIRIM A.Ş/
+│   │   ├── 📁 KUL İNŞAAT GROUP/
+│   │   │   ├── 📁 BİR BİR BİR/
+│   │   │   │   ├── 📁 AKBANK İŞLENDİ/
+│   │   │   │   ├── 📁 ARAÇ/
+│   │   │   │   ├── 📁 BAŞKENT GROUP/
+│   │   │   │   ├── 📁 BİLGİSAYAR TASARIM/
+│   │   │   │   ├── 📁 ÇIPLAKLI ŞANTİYELER/
+│   │   │   │   ├── 📁 dükkan kira sözleşmeleri/
+│   │   │   │   ├── 📁 FAT FATURA/
+│   │   │   │   ├── 📁 GARANTİ İŞLENENLER/
+│   │   │   │   ├── 📁 güzellik/
+│   │   │   │   ├── 📁 ISPARTA/
+│   │   │   │   ├── 📁 ico/
+│   │   │   │   ├── 📁 OneDrive_5_23.12.2025/
+│   │   │   │   ├── 📁 orfin araba/
+│   │   │   │   ├── 📁 ÖRNEK PROJE/
+│   │   │   │   ├── 📁 personel/
+│   │   │   │   ├── 📁 projeler/
+│   │   │   │   ├── 📁 sancar/
+│   │   │   │   ├── 📁 SGK KUL ÖZLÜK/
+│   │   │   │   ├── 📁 SGK ŞİFRE/
+│   │   │   │   ├── 📁 yetkilendirme/
+│   │   │   │   ├── 35bb34a6-b383-4d23-abc2-14b8f4071e8d.jpeg (79,9 KB)
+│   │   │   │   ├── 35bb34a6-b383-4d23-abc2-14b8f4071e8d.jpeg - Kısayol (2).lnk (1,7 KB)
+│   │   │   │   ├── 35bb34a6-b383-4d23-abc2-14b8f4071e8d.jpeg - Kısayol.lnk (1,7 KB)
+│   │   │   │   ├── ABDURRAHMAN TOKSÖZ GELEN PARA.xlsx (21,7 KB)
+│   │   │   │   ├── ALEYNA CEM BEY DÜZENLEME.xlsx.url (134 B)
+│   │   │   │   ├── ALEYNA KASA.xlsx (42,6 KB)
+│   │   │   │   ├── ARAÇ - Kısayol.lnk (1,0 KB)
+│   │   │   │   ├── BANKA ŞİFRE.txt (184 B)
+│   │   │   │   ├── BAŞKENT  LTD.ŞTİ - Kısayol.lnk (1,1 KB)
+│   │   │   │   ├── BAŞKENT GROUP - Kısayol.lnk (1,1 KB)
+│   │   │   │   ├── ÇIPLAKLI ŞANTİYELER - Kısayol.lnk (1,1 KB)
+│   │   │   │   ├── dff245b8-40d8-4c89-a230-8dfb5684bee9.jpeg (96,3 KB)
+│   │   │   │   ├── dff245b8-40d8-4c89-a230-8dfb5684bee9.jpeg - Kısayol (2).lnk (1,7 KB)
+│   │   │   │   ├── dff245b8-40d8-4c89-a230-8dfb5684bee9.jpeg - Kısayol (3).lnk (1,7 KB)
+│   │   │   │   ├── dff245b8-40d8-4c89-a230-8dfb5684bee9.jpeg - Kısayol (4).lnk (1,7 KB)
+│   │   │   │   ├── dff245b8-40d8-4c89-a230-8dfb5684bee9.jpeg - Kısayol (5).lnk (1,7 KB)
+│   │   │   │   ├── dff245b8-40d8-4c89-a230-8dfb5684bee9.jpeg - Kısayol (6).lnk (1,7 KB)
+│   │   │   │   ├── dff245b8-40d8-4c89-a230-8dfb5684bee9.jpeg - Kısayol (7).lnk (1,7 KB)
+│   │   │   │   ├── dff245b8-40d8-4c89-a230-8dfb5684bee9.jpeg - Kısayol.lnk (1,7 KB)
+│   │   │   │   ├── dükkan kira sözleşmeleri - Kısayol.lnk (1,2 KB)
+│   │   │   │   ├── E-Devlet E-Imza Uygulaması.lnk (2,5 KB)
+│   │   │   │   ├── EKSİKLER.docx (14,1 KB)
+│   │   │   │   ├── EPSON6D6AE8 (L14150 Series) - Kısayol.lnk (1,7 KB)
+│   │   │   │   ├── f6b0627d-d379-41f0-b7e0-c16c9ba0646c.jpeg (321,9 KB)
+│   │   │   │   ├── f6b0627d-d379-41f0-b7e0-c16c9ba0646c.jpeg - Kısayol (2).lnk (1,7 KB)
+│   │   │   │   ├── f6b0627d-d379-41f0-b7e0-c16c9ba0646c.jpeg - Kısayol.lnk (1,7 KB)
+│   │   │   │   ├── FAT FATURA - Kısayol.lnk (1,1 KB)
+│   │   │   │   ├── güzellik - Kısayol.lnk (1,0 KB)
+│   │   │   │   ├── GÜZELLİK MERKEZİ.xlsx (13,1 KB)
+│   │   │   │   ├── hp - Kısayol.lnk (909 B)
+│   │   │   │   ├── HP ProOne 240 23,8 inç G9 All-in-One Masaüstü Bilgisayar (4K509AV) Yazılım ve Sürücü İndirmeleri - HP® Müşteri Desteği.url (187 B)
+│   │   │   │   ├── ISHONCHNOMA.docx (13,7 KB)
+│   │   │   │   ├── ISHONCHNOMA.docx - Kısayol (2).lnk (705 B)
+│   │   │   │   ├── ISHONCHNOMA.docx - Kısayol.lnk (705 B)
+│   │   │   │   ├── ISPARTA - Kısayol.lnk (1,0 KB)
+│   │   │   │   ├── ico - Kısayol (2).lnk (1020 B)
+│   │   │   │   ├── ico - Kısayol.lnk (1020 B)
+│   │   │   │   ├── index.css (39,9 KB)
+│   │   │   │   ├── KARGICAK Gün Sonu.xlsm (363,2 KB)
+│   │   │   │   ├── kırmızı-gri-antetli hesap bilgileri.pdf (66,7 KB)
+│   │   │   │   ├── kırmızı-gri-antetli hesap bilgileri.pdf - Kısayol (2).lnk (1,5 KB)
+│   │   │   │   ├── kırmızı-gri-antetli hesap bilgileri.pdf - Kısayol.lnk (1,5 KB)
+│   │   │   │   ├── KUL İNŞAAT A.Ş - Kısayol (2).lnk (1,1 KB)
+│   │   │   │   ├── KUL İNŞAAT A.Ş - Kısayol.lnk (1,1 KB)
+│   │   │   │   ├── KUL İNŞAAT GENEL (version 1).xlsb (597,1 KB)
+│   │   │   │   ├── KUL İNŞAAT GENEL (version 1).xlsb - Kısayol (2).lnk (790 B)
+│   │   │   │   ├── KUL İNŞAAT GENEL (version 1).xlsb - Kısayol (3).lnk (790 B)
+│   │   │   │   ├── KUL İNŞAAT GENEL (version 1).xlsb - Kısayol (4).lnk (790 B)
+│   │   │   │   ├── KUL İNŞAAT GENEL (version 1).xlsb - Kısayol (5).lnk (790 B)
+│   │   │   │   ├── KUL İNŞAAT GENEL (version 1).xlsb - Kısayol (6).lnk (790 B)
+│   │   │   │   ├── KUL İNŞAAT GENEL (version 1).xlsb - Kısayol (7).lnk (790 B)
+│   │   │   │   ├── KUL İNŞAAT GENEL (version 1).xlsb - Kısayol.lnk (790 B)
+│   │   │   │   ├── KUL İNŞAAT ŞİRKET EVRAKLARI - Kısayol (2).lnk (1,2 KB)
+│   │   │   │   ├── KUL İNŞAAT ŞİRKET EVRAKLARI - Kısayol.lnk (1,2 KB)
+│   │   │   │   ├── KUL RESİM.webp (30,1 KB)
+│   │   │   │   ├── KUL RESİM.webp - Kısayol.lnk (1,4 KB)
+│   │   │   │   ├── KUL SATIŞ FATURA.zip (1,2 MB)
+│   │   │   │   ├── KUL SATIŞ FATURA.zip - Kısayol.lnk (1,2 KB)
+│   │   │   │   ├── KUL.ai (347,7 KB)
+│   │   │   │   ├── KURUMSAL ÖDEMELER muhasebeye gönderildi - Kısayol (2).lnk (1,3 KB)
+│   │   │   │   ├── KURUMSAL ÖDEMELER muhasebeye gönderildi - Kısayol.lnk (1,3 KB)
+│   │   │   │   ├── Microsoft Designer.lnk (3,3 KB)
+│   │   │   │   ├── MOKİTA ŞİRKET EVRAKLARI - Kısayol.lnk (1,2 KB)
+│   │   │   │   ├── MOKİTA_ARAÇ_KİRALAMA - Kısayol.lnk (1,2 KB)
+│   │   │   │   ├── MONEY TRANSFER - Chrome (2).lnk (2,4 KB)
+│   │   │   │   ├── MONEY TRANSFER - Chrome (3).lnk (2,4 KB)
+│   │   │   │   ├── MONEY TRANSFER - Chrome (4).lnk (2,4 KB)
+│   │   │   │   ├── MONEY TRANSFER - Chrome (5).lnk (2,4 KB)
+│   │   │   │   ├── MONEY TRANSFER - Chrome (6).lnk (2,4 KB)
+│   │   │   │   ├── MONEY TRANSFER - Chrome (7).lnk (2,4 KB)
+│   │   │   │   ├── MONEY TRANSFER - Chrome.lnk (2,4 KB)
+│   │   │   │   ├── moneytransferturkey - Kısayol (2).lnk (1,1 KB)
+│   │   │   │   ├── moneytransferturkey - Kısayol.lnk (1,1 KB)
+│   │   │   │   ├── OneDrive_5_23.12.2025.zip (1,2 MB)
+│   │   │   │   ├── OneDrive_6_23.12.2025.zip (1,3 MB)
+│   │   │   │   ├── orfin araba - Kısayol (2).lnk (1,1 KB)
+│   │   │   │   ├── orfin araba - Kısayol.lnk (1,1 KB)
+│   │   │   │   ├── ÖRNEK PROJE - Kısayol (2).lnk (1,1 KB)
+│   │   │   │   ├── ÖRNEK PROJE - Kısayol.lnk (1,1 KB)
+│   │   │   │   ├── personel - Kısayol (2).lnk (1,0 KB)
+│   │   │   │   ├── personel - Kısayol.lnk (1,0 KB)
+│   │   │   │   ├── Photos-1-001.zip (585,2 MB)
+│   │   │   │   ├── PROGRAM.gif (845,9 KB)
+│   │   │   │   ├── PROGRAM.gif - Kısayol.lnk (1,4 KB)
+│   │   │   │   ├── Proje Satış Ofisi Taahhütnamesi.docx (31,2 KB)
+│   │   │   │   ├── Proje Satış Ofisi Taahhütnamesi.docx - Kısayol (2).lnk (1,0 KB)
+│   │   │   │   ├── Proje Satış Ofisi Taahhütnamesi.docx - Kısayol.lnk (1,0 KB)
+│   │   │   │   ├── projeler - Kısayol (2).lnk (1,0 KB)
+│   │   │   │   ├── projeler - Kısayol.lnk (1,0 KB)
+│   │   │   │   ├── SGK KUL ÖZLÜK - Kısayol (2).lnk (1,1 KB)
+│   │   │   │   ├── SGK KUL ÖZLÜK - Kısayol.lnk (1,1 KB)
+│   │   │   │   ├── SGK ŞİFRE - Kısayol.lnk (1,1 KB)
+│   │   │   │   ├── SIRTLIK.xlsx (121,0 KB)
+│   │   │   │   ├── sonMuhasebe-20251223T160231Z-3-001.zip (254,2 MB)
+│   │   │   │   ├── Taramalar - Kısayol.lnk (918 B)
+│   │   │   │   ├── TURKEY.pdf (102,3 KB)
+│   │   │   │   ├── video - Kısayol.lnk (1,0 KB)
+│   │   │   │   ├── WhatsApp Audio 2023-10-27 at 13.04.06.aac (10,4 MB)
+│   │   │   │   ├── yetkilendirme - Kısayol.lnk (1,1 KB)
+│   │   │   │   ├── ZİRAAT DÜZENLENMİŞ  (version 1).xlsb (20,6 KB)
+│   │   │   │   ├── ZİRAAT DÜZENLENMİŞ  (version 1).xlsb - Kısayol (2).lnk (805 B)
+│   │   │   │   ├── ZİRAAT DÜZENLENMİŞ  (version 1).xlsb - Kısayol (3).lnk (805 B)
+│   │   │   │   ├── ZİRAAT DÜZENLENMİŞ  (version 1).xlsb - Kısayol (4).lnk (805 B)
+│   │   │   │   ├── ZİRAAT DÜZENLENMİŞ  (version 1).xlsb - Kısayol (5).lnk (805 B)
+│   │   │   │   ├── ZİRAAT DÜZENLENMİŞ  (version 1).xlsb - Kısayol (6).lnk (805 B)
+│   │   │   │   ├── ZİRAAT DÜZENLENMİŞ  (version 1).xlsb - Kısayol (7).lnk (805 B)
+│   │   │   │   └── ZİRAAT DÜZENLENMİŞ  (version 1).xlsb - Kısayol.lnk (805 B)
+│   │   │   ├── 📁 MUHASEBE/
+│   │   │   │   ├── _KUL EMLAK YATIRIM A.Ş. kişisinden belge.pdf (59,6 MB)
+│   │   │   │   ├── 01.01.2025-31.12.2025_6221-0362088_Hesap Ozeti.xlsx (11,2 KB)
+│   │   │   │   ├── 1000141771 (950×578).webp (75,8 KB)
+│   │   │   │   ├── 171_2 - 167_2 vekalet.pdf (5,2 MB)
+│   │   │   │   ├── 365d77489de3498f0ea7b174f7068cce.png (361,7 KB)
+│   │   │   │   ├── beton-demir hs.xlsx (19,6 KB)
+│   │   │   │   ├── BVUC3667.JPEG (8,8 KB)
+│   │   │   │   ├── Cem Bey.xlsx (27,3 KB)
+│   │   │   │   ├── Developer-Enterprise-Services-Privacy-Policy_kopyası.pdf (185,4 KB)
+│   │   │   │   ├── GENEL.MDF (10,1 MB)
+│   │   │   │   ├── GENEL_LOG.LDF (8,2 MB)
+│   │   │   │   ├── GPYW3881.JPEG (12,5 KB)
+│   │   │   │   ├── HAKAN ÇAĞLARSU HAKEDİŞ.xlsx (11,7 KB)
+│   │   │   │   ├── hesaphareketi-01 (1).pdf (92,8 KB)
+│   │   │   │   ├── hesaphareketi-01 (2).pdf (95,8 KB)
+│   │   │   │   ├── hesaphareketi-01 (3).pdf (87,9 KB)
+│   │   │   │   ├── hesaphareketi-01.docx (324,3 KB)
+│   │   │   │   ├── hesaphareketi-01.pdf (91,5 KB)
+│   │   │   │   ├── hesaphareketleri.xls (40,0 KB)
+│   │   │   │   ├── hesaphareketleri.xlsx (41,4 KB)
+│   │   │   │   ├── HESAPLAR.xlsx (76,0 KB)
+│   │   │   │   ├── Kitap.xlsx (7,0 KB)
+│   │   │   │   ├── KUL EMLAK ÇIPLAKLI PERSONEL LİSTESİ .xlsx (926,1 KB)
+│   │   │   │   ├── Kul İnşaat Faaliyet belgesi.png (602,4 KB)
+│   │   │   │   ├── Kul İnşaat imza sirküsü arka yüz.png (942,7 KB)
+│   │   │   │   ├── Kul İnşaat imza sirküsü ön yüz.png (918,4 KB)
+│   │   │   │   ├── Kul İnşaat oda sicil kayıt sureti.png (797,5 KB)
+│   │   │   │   ├── KUL İNŞAAT PUANTAJ.xlsx (12,1 KB)
+│   │   │   │   ├── Kul İnşaat Ticaret Sicil Tasdiknamesi.png (806,7 KB)
+│   │   │   │   ├── Kul İnşaat vergi levhası.png (821,3 KB)
+│   │   │   │   ├── KUL İNŞAAT.xls (150,5 KB)
+│   │   │   │   ├── Ofis_ Muhasebe.md (127 B)
+│   │   │   │   ├── OneDrive'-¦ kullanmaya ba+lama.pdf (1,0 MB)
+│   │   │   │   ├── Screenshot_20250817_195336_Telegram.jpg (315,2 KB)
+│   │   │   │   ├── SirketBilgileri.ini (4,1 KB)
+│   │   │   │   └── XSJJ1515.JPEG (12,5 KB)
+│   │   │   ├── 📁 PROJELER/
+│   │   │   │   ├── 📁 167-2-CIPLAKLI/
+│   │   │   │   ├── 📁 171-2/
+│   │   │   │   ├── 📁 176-1/
+│   │   │   │   ├── 📁 183-4/
+│   │   │   │   ├── 📁 498-11/
+│   │   │   │   ├── 📁 CIPLAKLI-SANTIYE/
+│   │   │   │   └── 📁 MIMAR-PROJELERI/
+│   │   │   ├── 0yusuf çetin.pdf (65,5 KB)
+│   │   │   ├── 171 ／2 vekalet inşaat icin (4,7 MB)
+│   │   │   ├── 171／2 - 167／2 vekalet (5,2 MB)
+│   │   │   ├── 20260114_051926.jpg (475,2 KB)
+│   │   │   ├── 20260114_052038.jpg (0 B)
+│   │   │   ├── 20260116_014342.jpg (728,8 KB)
+│   │   │   ├── 20260118_215820.jpg (257,1 KB)
+│   │   │   ├── 2c5564b4ea6708c85b1331fc1fa2bcdf.mp4 (1,2 MB)
+│   │   │   ├── 3945ae2cab1b9af389aa81f479bc066e.mp4 (0 B)
+│   │   │   ├── 3945ae2cab1b9af389aa81f479bc066e_1.mp4 (4,0 MB)
+│   │   │   ├── 698cddf6fb90665a3695d4f21d943a5f.mp4 (4,0 MB)
+│   │   │   ├── Adobe Scan 14 Ara 2022.pdf (4,3 MB)
+│   │   │   ├── Backup-codes-kulemlakyatirim.as.docx (7,2 KB)
+│   │   │   ├── Backup-codes-kulemlakyatirim.as.txt (476 B)
+│   │   │   ├── ‎CmkL kişisinden belge (1).pdf (218,8 KB)
+│   │   │   ├── ÇIPLAKLI İNŞAAT  .xlsx (1,3 MB)
+│   │   │   ├── Desktop.rar (251,1 MB)
+│   │   │   ├── Document_20230721_0004.pdf (2,7 MB)
+│   │   │   ├── hesaphareketi-01.docx (324,3 KB)
+│   │   │   ├── hesaphareketi-01.pdf (91,5 KB)
+│   │   │   ├── hesaphareketleri.xls (40,0 KB)
+│   │   │   ├── hesaphareketleri.xlsx (41,4 KB)
+│   │   │   ├── İstinaf Ruhsatı.pdf (2,1 MB)
+│   │   │   ├── KAT İRTİFAKI.dwg (1,6 MB)
+│   │   │   ├── KUL EMLAK ÇIPLAKLI PERSONEL LİSTESİ .xlsx (195,3 KB)
+│   │   │   ├── KUL İNŞAAT GENEL (version 1) (3).xlsb (0 B)
+│   │   │   ├── mMMMMy.pdf (208,2 KB)
+│   │   │   ├── Screenshot_20260114_093001_PCAPdroid.jpg (480,9 KB)
+│   │   │   ├── Screenshot_20260114_094307_PCAPdroid.jpg (387,4 KB)
+│   │   │   ├── Screenshot_20260114_094438_PCAPdroid.jpg (0 B)
+│   │   │   ├── Screenshot_20260114_095903_PCAPdroid.jpg (316,3 KB)
+│   │   │   ├── Screenshot_20260115_124211_WhatsAppBusiness.jpg (858,4 KB)
+│   │   │   ├── Screenshot_20260115_185051_WhatsAppBusiness.jpg (661,2 KB)
+│   │   │   └── Screenshot_20260118_192904.jpg (496,6 KB)
+│   │   ├── 📁 MUHASEBE/
+│   │   │   ├── 01.01.2025-31.12.2025_6221-0362088_Hesap Ozeti.xlsx (11,2 KB)
+│   │   │   ├── 0h0esaphareketleri.xlsx (23,2 KB)
+│   │   │   ├── beton-demir hs.xlsx (19,6 KB)
+│   │   │   ├── Cem Bey.xlsx (27,3 KB)
+│   │   │   ├── Çizelge.xlsx (18,9 KB)
+│   │   │   ├── Desktop_167-2 satış listesi.xlsx (15,5 KB)
+│   │   │   ├── Desktop_171-2 beton metraj.xlsx (10,4 KB)
+│   │   │   ├── Desktop_171-2 demir metraj.xlsx (13,5 KB)
+│   │   │   ├── Desktop_183-4 satış listesi.xlsx (14,6 KB)
+│   │   │   ├── Desktop_beton-demir hs.xlsx (19,6 KB)
+│   │   │   ├── Desktop_Cem Bey.xlsx (27,3 KB)
+│   │   │   ├── Desktop_HAKAN ÇAĞLARSU HAKEDİŞ.xlsx (11,7 KB)
+│   │   │   ├── Desktop_HESAPLAR.xlsx (76,0 KB)
+│   │   │   ├── Desktop_KUL İNŞAAT PUANTAJ.xlsx (12,1 KB)
+│   │   │   ├── DÖVİZ.xlsx (10,9 KB)
+│   │   │   ├── GELİR GİDER TABLOSU.xlsx (31,0 KB)
+│   │   │   ├── HAKAN ÇAĞLARSU HAKEDİŞ.xlsx (11,7 KB)
+│   │   │   ├── hesaphareketi-01 (1).pdf (92,8 KB)
+│   │   │   ├── hesaphareketi-01 (2).pdf (95,8 KB)
+│   │   │   ├── hesaphareketi-01 (3).pdf (87,9 KB)
+│   │   │   ├── hesaphareketi-01.docx (324,3 KB)
+│   │   │   ├── hesaphareketi-01.pdf (91,5 KB)
+│   │   │   ├── hesaphareketleri (1).xlsx (22,1 KB)
+│   │   │   ├── hesaphareketleri.xls (40,0 KB)
+│   │   │   ├── hesaphareketleri.xlsx (41,4 KB)
+│   │   │   ├── HESAPLAR.xlsx (76,0 KB)
+│   │   │   ├── KUL ÇIPLAKLI FATURA.xlsx (18,1 KB)
+│   │   │   ├── KUL İNŞAAT.xls (150,5 KB)
+│   │   │   ├── Yapılacaklar Listesi.xlsx (5,3 KB)
+│   │   │   ├── YATMAZ HESAP.xlsx (125,6 KB)
+│   │   │   ├── Yeni Microsoft Excel Çalışma Sayfası (2).xlsx (6,4 KB)
+│   │   │   ├── Yeni Microsoft Excel Çalışma Sayfası (3).xlsx (44,0 KB)
+│   │   │   └── Yeni Microsoft Excel Çalışma Sayfası.xlsx (7,8 KB)
+│   │   ├── 📁 PERSONEL/
+│   │   │   ├── KUL EMLAK ÇIPLAKLI PERSONEL LİSTESİ .xlsx (926,1 KB)
+│   │   │   └── KUL İNŞAAT PUANTAJ.xlsx (12,1 KB)
+│   │   ├── 📁 PROJELER/
+│   │   │   ├── 📁 167 ada 2 parsel havuz ödeme dekontu/
+│   │   │   │   ├── Tarama_20230710 (2).png (620,2 KB)
+│   │   │   │   ├── Tarama_20230710_2.png (610,7 KB)
+│   │   │   │   ├── Tarama_20230710_3.png (585,0 KB)
+│   │   │   │   ├── Tarama_20230710_4.png (581,2 KB)
+│   │   │   │   ├── Tarama_20230710_5.png (616,2 KB)
+│   │   │   │   └── Tarama_20230710_6.png (587,7 KB)
+│   │   │   ├── 📁 167 ada 2 parsel mal müdürlüğü ödeme dekontu/
+│   │   │   │   ├── 📁 167 ada 2 parsel istinat ödeme dekontu/
+│   │   │   │   ├── Tarama_20230710.png (594,3 KB)
+│   │   │   │   ├── Tarama_20230710_2.png (596,0 KB)
+│   │   │   │   ├── Tarama_20230710_3.png (569,5 KB)
+│   │   │   │   ├── Tarama_20230710_4.png (617,1 KB)
+│   │   │   │   ├── Tarama_20230710_5.png (558,5 KB)
+│   │   │   │   └── Tarama_20230710_6.png (602,3 KB)
+│   │   │   ├── 📁 167_2_Havuz Hesap Raporu/
+│   │   │   │   ├── analiz ayarlari.pdf (1,1 MB)
+│   │   │   │   ├── deprem parametreleri.pdf (3,9 MB)
+│   │   │   │   ├── döseme.pdf (3,1 MB)
+│   │   │   │   ├── perde.pdf (3,8 MB)
+│   │   │   │   ├── radye temel.pdf (1,7 MB)
+│   │   │   │   └── yapi özet.pdf (1,0 MB)
+│   │   │   ├── 📁 167_2_İskele Hesap Raporu/
+│   │   │   │   ├── çapraz ön bilgisi.pdf (1,3 MB)
+│   │   │   │   ├── kalip iskelesi rapor.pdf (2,9 MB)
+│   │   │   │   ├── kiris ön bilgisi.pdf (5,0 MB)
+│   │   │   │   ├── kolon ön bilgileri.pdf (2,1 MB)
+│   │   │   │   ├── yapi özet raporu.pdf (1.022,2 KB)
+│   │   │   │   └── yapiya etkiyen rüzgar yükleri.pdf (2,0 MB)
+│   │   │   ├── 📁 167_2_İstinat Hesap Raporu/
+│   │   │   │   ├── istinat rapor 1.pdf (4,7 MB)
+│   │   │   │   ├── istinat rapor 2.pdf (4,5 MB)
+│   │   │   │   └── istinat rapor 3.pdf (4,7 MB)
+│   │   │   ├── 📁 167_2_Statik Raporlar/
+│   │   │   │   ├── analiz ayarlari raporu.pdf (1,1 MB)
+│   │   │   │   ├── deprem parametreleri raporu.pdf (3,8 MB)
+│   │   │   │   ├── döseme ön bilgileri.pdf (3,4 MB)
+│   │   │   │   ├── kiris ön bilgisi.pdf (5,9 MB)
+│   │   │   │   ├── kolon kiris birlesim.pdf (1,4 MB)
+│   │   │   │   ├── kolon ön bilgileri.pdf (4,7 MB)
+│   │   │   │   ├── radye temel.pdf (2,6 MB)
+│   │   │   │   └── yapi özet raporu.pdf (1,1 MB)
+│   │   │   ├── 📁 167_2_Su Deposu Hesap Raporu/
+│   │   │   │   ├── analiz ayarlari.pdf (1,1 MB)
+│   │   │   │   ├── deprem parametreleri.pdf (3,9 MB)
+│   │   │   │   ├── döseme.pdf (3,1 MB)
+│   │   │   │   ├── perde.pdf (3,8 MB)
+│   │   │   │   ├── radye temel.pdf (1,7 MB)
+│   │   │   │   └── yapi özet.pdf (1,0 MB)
+│   │   │   ├── 📁 AVSALLAR -ŞANTİYE/
+│   │   │   │   └── 📁 498-11/
+│   │   │   ├── 📁 ÇıpLaklı ŞantiyeLer/
+│   │   │   │   ├── 📁 09.09.2025 DÜZENLENDİ GOOGLE DRİVE/
+│   │   │   │   ├── 📁 167 Ada 2 Parsel/
+│   │   │   │   ├── 📁 167 ADA 2 PARSEL ÇIPLAKLI/
+│   │   │   │   ├── 📁 167-2/
+│   │   │   │   ├── 📁 171 Ada 2 Parsel/
+│   │   │   │   ├── 📁 171 ADA 2 PARSEL ÇIPLAKLI/
+│   │   │   │   ├── 📁 171-2/
+│   │   │   │   ├── 📁 176 ADA 1 PARSEL ÇIPLAKLI/
+│   │   │   │   ├── 📁 183 Ada 4 Parsel/
+│   │   │   │   ├── 📁 183 ADA 4 PARSEL ÇIPLAKLI/
+│   │   │   │   ├── 📁 183-4/
+│   │   │   │   ├── 📁 Banka Hesap Özetleri/
+│   │   │   │   ├── 📁 ÇEKLER/
+│   │   │   │   ├── 📁 ÇEKLERR/
+│   │   │   │   ├── 📁 ÇIPLAKLI  İNŞAAT  HESAP GİDER VE EVRAKLAR␠/
+│   │   │   │   ├── 📁 GENEL GİDERLER/
+│   │   │   │   ├── 📁 İŞ SÖZLEŞMELERİ␠/
+│   │   │   │   ├── 📁 MERMER/
+│   │   │   │   ├── 📁 ÖDEMELER/
+│   │   │   │   ├── 📁 PVC Teklif/
+│   │   │   │   ├── 📁 RENDER 3D/
+│   │   │   │   ├── 📁 SATIŞ SÖZLEŞMELERİ␠/
+│   │   │   │   ├── 171 2 elektrik faturasi.pdf (65,4 KB)
+│   │   │   │   ├── 171 2 Parsel Elektrik Aboneligi.pdf (240,9 KB)
+│   │   │   │   ├── 171-2 Elektrik Faturası.pdf (65,9 KB)
+│   │   │   │   ├── ARSA PAYI KOMİSYON.pdf (386,4 KB)
+│   │   │   │   ├── Arsa payı odemesi(1).pdf (63,5 KB)
+│   │   │   │   ├── Arsa payı odemesi(2).pdf (63,5 KB)
+│   │   │   │   ├── Arsa payı odemesi(3).pdf (64,1 KB)
+│   │   │   │   ├── ARSA PAYI ÖDEMESİ BAHRİ.pdf (436,7 KB)
+│   │   │   │   ├── ARSA PAYI ÖDEMESİ YASİN.pdf (440,9 KB)
+│   │   │   │   ├── ARSA PAYI ÖDEMESİ.pdf (429,6 KB)
+│   │   │   │   ├── ART SER YAPI-SERAMİK VE VİTRİFİYE BAĞLANTISI .jpeg (299,5 KB)
+│   │   │   │   ├── ATAK LİFT ASANSÖR sözleşme çıplaklı.pdf (816,6 KB)
+│   │   │   │   ├── ÇATICI- MEHMET ALİ ŞİMŞEK (2).pdf (2,2 MB)
+│   │   │   │   ├── ÇIPLAKLI ÇELİK KAPI BAĞLANTISI.pdf (148,4 KB)
+│   │   │   │   ├── ELEKTRİK - TEZCAN ELEKTRİK (3).pdf (830,2 KB)
+│   │   │   │   ├── ELEKTRİK DÖKÜMÜ.xlsx (12,0 KB)
+│   │   │   │   ├── ELEKTRİK FATURASI (1).pdf (386,0 KB)
+│   │   │   │   ├── ELEKTRİK FATURASI.pdf (413,8 KB)
+│   │   │   │   ├── EMG MERMER BAĞLANTI.pdf (1,1 MB)
+│   │   │   │   ├── MEHMET HAS- LAMİNANT PARKE BAĞLANTISI.jpeg (65,5 KB)
+│   │   │   │   ├── METİN ARIKAN SIHHİ TESİSAT.pdf (1,4 MB)
+│   │   │   │   ├── MOBİLYA- SİMA DEKORASYON .pdf (1.001,7 KB)
+│   │   │   │   ├── OPAL yapı 2023.pdf (21,0 KB)
+│   │   │   │   ├── OPAL Yapı2024.pdf (22,3 KB)
+│   │   │   │   ├── PVC - METİN ARIKAN .pdf (2,3 MB)
+│   │   │   │   ├── SU DÖKÜMÜ.xlsx (10,8 KB)
+│   │   │   │   ├── Su Ruhsatı altyapi.pdf adlı dosyanın kopyası.pdf (578,0 KB)
+│   │   │   │   ├── Su Tahsilat 2.pdf (387,4 KB)
+│   │   │   │   ├── Su Tahsilat 2.pdf adlı dosyanın kopyası.pdf (387,4 KB)
+│   │   │   │   ├── Su Tahsilat.pdf (608,5 KB)
+│   │   │   │   ├── Su Tahsilat.pdf adlı dosyanın kopyası.pdf (608,5 KB)
+│   │   │   │   ├── Süperbox İnternet.pdf (66,2 KB)
+│   │   │   │   └── TAŞERON- HAKAN ÇAĞLARSU (2).pdf (3,1 MB)
+│   │   │   ├── 📁 MAHMUTLAR-ŞANTİYE/
+│   │   │   ├── 167- 2 geoteknik.pdf (2,0 MB)
+│   │   │   ├── 167_2_AsansörUygulamaProjesi_OPdf.pdf (7,4 MB)
+│   │   │   ├── 167_2_ElektrikTesisatProjesi_OPdf.pdf (4,3 MB)
+│   │   │   ├── 167_2_HavuzTesisatıProjesi_OPdf.pdf (3,1 MB)
+│   │   │   ├── 167_2_MekanikTesisatProjesi_OPdf.pdf (6,2 MB)
+│   │   │   ├── 167_2_MimariProje_OPdf.pdf (6,6 MB)
+│   │   │   ├── 167_2_PeyzajProjesi_OPdf.pdf (14,1 MB)
+│   │   │   ├── 167_2_StatikProje_OPdf.pdf (8,9 MB)
+│   │   │   ├── 167_2_ZayıfAkımTesisatProjesi_OPdf.pdf (4,3 MB)
+│   │   │   ├── 167-2 ASANSÖR SÖZLEŞMESİ.pdf (3,0 MB)
+│   │   │   ├── 167-2 Asat ödeme dekont.pdf (66,6 KB)
+│   │   │   ├── 167-2 belediye ruhsat ödeme makbuzu.jpeg (117,7 KB)
+│   │   │   ├── 167-2 çıplaklı (1)-1.pdf (318,3 KB)
+│   │   │   ├── 167-2 ÇIPLAKLI ISI KAYIP VE KAZANÇ HESAPLARI .pdf (4,2 MB)
+│   │   │   ├── 167-2 satış listesi.xlsx (15,5 KB)
+│   │   │   ├── 167-2_ZE.pdf (49,0 MB)
+│   │   │   ├── BİNA HAKKINDA GENEL BİLGİLER 167 2.pdf (2,5 MB)
+│   │   │   ├── celık catı hesap raporu.pdf (3,8 MB)
+│   │   │   ├── ÇIPLAKLI İNŞAAT   (1).xlsx (1,4 MB)
+│   │   │   ├── ÇIPLAKLI İNŞAAT  .xlsx (1,3 MB)
+│   │   │   ├── ÇIPLAKLI MAH. 167 ADA 2 PARSEL.pdf (2,2 MB)
+│   │   │   ├── kalıp iskelesi rapor.pdf (2,9 MB)
+│   │   │   └── KAT İRTİFAKI.dwg (1,6 MB)
+│   │   ├── 📁 RESMI-BELGELER/
+│   │   │   ├── Faaliyet Belgesi.pdf (670,5 KB)
+│   │   │   ├── kul imza sirküleri.pdf (968,6 KB)
+│   │   │   ├── kul imzaArka.pdf (821,7 KB)
+│   │   │   ├── Kul İnşaat Faaliyet belgesi.png (602,4 KB)
+│   │   │   ├── Kul İnşaat imza sirküsü arka yüz.png (942,7 KB)
+│   │   │   ├── Kul İnşaat imza sirküsü ön yüz.png (918,4 KB)
+│   │   │   ├── Kul İnşaat oda sicil kayıt sureti.png (797,5 KB)
+│   │   │   ├── Kul İnşaat Ticaret Sicil Tasdiknamesi.png (806,7 KB)
+│   │   │   ├── Kul İnşaat vergi levhası.png (821,3 KB)
+│   │   │   ├── Oda Sicil Kayıt Sureti.pdf (697,8 KB)
+│   │   │   ├── resmi gazete ana sözleşme.pdf (164,2 KB)
+│   │   │   ├── resmi gazete kuruluş.pdf (245,7 KB)
+│   │   │   ├── resmi gazete yetki onay.pdf (37,8 KB)
+│   │   │   ├── Ticari Sicil Tasdiknamesi.pdf (776,9 KB)
+│   │   │   └── Vergi Levhası.pdf (1,2 MB)
+│   │   ├── 📁 ŞİRKET EVRAKLARI/
+│   │   │   ├── 📁 KURUMSAL BAŞVURU VE BELGELER/
+│   │   │   │   ├── CamScanner 02.12.2024 13.51.pdf (487,7 KB)
+│   │   │   │   ├── Dec 2, 2024 Doc.pdf (1,1 MB)
+│   │   │   │   ├── E-Defter Başvuru Dilekçesi.pdf (60,8 KB)
+│   │   │   │   ├── FESİH İADE DİLEKÇESİ (1).PDF (175,2 KB)
+│   │   │   │   ├── Interaktif+VD+Gelen+Evrak+Kayıt.pdf.pdf (158,0 KB)
+│   │   │   │   ├── İHRACAT İÇİN VEKALET.pdf (2,7 MB)
+│   │   │   │   ├── KOBİ-Beyan-Basvuru-Formu-4741548.pdf (867,3 KB)
+│   │   │   │   ├── kosgeb girişimcilik.pdf (469,5 KB)
+│   │   │   │   ├── Kosgeb İşletme geliştirme.pdf (291,3 KB)
+│   │   │   │   ├── Kosgeb Taahhütname.pdf (214,7 KB)
+│   │   │   │   ├── ozel_kurum_basvuru_dilekcesi.udf (3,7 KB)
+│   │   │   │   ├── SGK YAPILANDIRMA BAŞVURUSU.pdf (487,7 KB)
+│   │   │   │   ├── UYAP BAŞVURUSU .udf (4,0 KB)
+│   │   │   │   └── UYAP KURUMSAL ABONELİK SÖZLEŞMESİ.udf (7,7 KB)
+│   │   │   ├── Kul İnşaat Faaliyet belgesi.png (602,4 KB)
+│   │   │   ├── Kul İnşaat imza sirküsü arka yüz.png (942,7 KB)
+│   │   │   ├── Kul İnşaat imza sirküsü ön yüz.png (918,4 KB)
+│   │   │   ├── Kul İnşaat oda sicil kayıt sureti.png (797,5 KB)
+│   │   │   ├── Kul İnşaat tapu yetki belgesi.png (822,8 KB)
+│   │   │   ├── Kul İnşaat Ticaret Sicil Tasdiknamesi.png (806,7 KB)
+│   │   │   ├── Kul İnşaat vergi levhası.png (821,3 KB)
+│   │   │   ├── YAPI RUHSATI ARKA YÜZ.png (919,8 KB)
+│   │   │   └── YAPI RUHSATI ÖN YÜZ.png (1,1 MB)
+│   │   ├── _ÖRNEK Şantiye.md (1,4 KB)
+│   │   ├── 01.01.2025-31.12.2025_6221-0362088_Hesap Ozeti.xlsx (11,2 KB)
+│   │   ├── 167-2 Raiç bedel evrakı .pdf (4,3 MB)
+│   │   ├── GENEL.MDF (10,1 MB)
+│   │   ├── GENEL_LOG.LDF (8,2 MB)
+│   │   ├── KUL_INSAAT.md (4,5 KB)
+│   │   ├── KUL_YATIRIM_GROUP.md (6,5 KB)
+│   │   ├── Ofis_ Muhasebe.md (127 B)
+│   │   └── SirketBilgileri.ini (4,1 KB)
+│   ├── 📁 MONEY-TRANSFER-TURKEY/
+│   │   ├── 📁 LOKASYONLAR/
+│   │   │   └── _ÖRNEK Lokasyon 1.md (481 B)
+│   │   ├── 📁 MOKITA/
+│   │   │   ├── 📁 2023/
+│   │   │   │   ├── 2023.MDF (5,1 MB)
+│   │   │   │   ├── 2023_LOG.LDF (5,1 MB)
+│   │   │   │   ├── 2023T.MDF (27,8 MB)
+│   │   │   │   └── 2023T_LOG.LDF (31,7 MB)
+│   │   │   ├── 📁 2024/
+│   │   │   │   ├── 2024.MDF (5,1 MB)
+│   │   │   │   ├── 2024_LOG.LDF (5,6 MB)
+│   │   │   │   ├── 2024T.MDF (27,8 MB)
+│   │   │   │   └── 2024T_LOG.LDF (34,9 MB)
+│   │   │   ├── GENEL.MDF (10,1 MB)
+│   │   │   ├── GENEL_LOG.LDF (8,2 MB)
+│   │   │   └── SirketBilgileri.ini (4,2 KB)
+│   │   ├── 📁 SUBELER/
+│   │   │   └── _ÖRNEK Şube 1.md (811 B)
+│   │   └── MoneyTransferTurkey.md (8,4 KB)
+│   └── 📁 TURKEY-SIGORTA-BROKERLIĞI/
+│       └── 📁 02-MUHASEBE-MOKITA/
+│           ├── 📁 2023/
+│           │   ├── 2023.MDF (5,1 MB)
+│           │   ├── 2023_LOG.LDF (5,1 MB)
+│           │   ├── 2023T.MDF (27,8 MB)
+│           │   └── 2023T_LOG.LDF (31,7 MB)
+│           ├── 📁 2024/
+│           │   ├── 2024.MDF (5,1 MB)
+│           │   ├── 2024_LOG.LDF (5,6 MB)
+│           │   ├── 2024T.MDF (27,8 MB)
+│           │   └── 2024T_LOG.LDF (34,9 MB)
+│           ├── GENEL.MDF (10,1 MB)
+│           ├── GENEL_LOG.LDF (8,2 MB)
+│           └── SirketBilgileri.ini (4,2 KB)
+├── 📁 FINAL_OPTIMIZASYON_202602Pe_020745/
+│   └── 📁 SISTEM/
+│       ├── .env (1,4 KB)
+│       ├── 1_YEDEK_AL.bat (2,3 KB)
+│       ├── 2_OPTIMIZE_ET.bat (1,7 KB)
+│       ├── 3_RAPOR_GÖSTER.bat (3,4 KB)
+│       ├── 4_DASHBOARD_AÇ.bat (310 B)
+│       ├── analiz_sorgu.sql (207 B)
+│       ├── BAŞLAT.bat (11,0 KB)
+│       ├── CLAUDE_KULLANIM_KILAVUZU.md (7,3 KB)
+│       ├── create_dashboard.ps1 (9,3 KB)
+│       ├── custom_mcp_server.js (10,4 KB)
+│       ├── dashboard.html (8,5 KB)
+│       ├── db_backup.bat (1,8 KB)
+│       ├── db_final_optimize.sql (2,5 KB)
+│       ├── db_manager.py (15,2 KB)
+│       ├── db_optimize.sql (5,9 KB)
+│       ├── db_queries.sql (7,1 KB)
+│       ├── FINAL_OPTIMIZASYON.bat (1,9 KB)
+│       ├── FINAL_OPTIMIZASYON_UYGULA.bat (9,6 KB)
+│       ├── FINAL_RAPOR.md (10,9 KB)
+│       ├── GEREKSIZ_DOSYA_TEMIZLIGI.bat (7,9 KB)
+│       ├── GORSEL_SUNUM.bat (22,2 KB)
+│       ├── HATA_COZUM_REHBERI.md (3,5 KB)
+│       ├── HIZLI_BASLANGIC.md (4,7 KB)
+│       ├── HTML_PANEL_KULLANIM.md (6,4 KB)
+│       ├── IDEAL_SISTEM_TAVSIYE.md (7,8 KB)
+│       ├── KONTROL_PANELI_V2.html (23,5 KB)
+│       ├── KONTROL_PANELİ.html (16,8 KB)
+│       ├── KURULUM_RAPORU.md (8,4 KB)
+│       ├── KURULUM_TAMAMLA.bat (3,0 KB)
+│       ├── KURUMSAL_KURULUM.md (6,9 KB)
+│       └── MERKEZ_VERITABANI.db (8,3 MB)
+└── 1124.docx (7,7 KB)
+TAMAMLANDI - 2026-02-07 20:55:44
